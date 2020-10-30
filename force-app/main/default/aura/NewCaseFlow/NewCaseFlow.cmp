@@ -1,11 +1,8 @@
 <aura:component implements="force:lightningQuickActionWithoutHeader,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickActionWithoutHeader" access="global">
     <!-- Add scroll bar to docked composer -->
-    <aura:html tag="style">
-        .slds-docked-composer {
-            overflow-y: scroll !important;
-        }
-    </aura:html>
+    <div class="slds-docked-composer">
+        <lightning:flow aura:id="flowData" />
+    </div>
 <!-- Component is initialized -->
-<aura:handler name="init" value="{!this}" action="{!c.init}" />
-<lightning:flow aura:id="flowData" />   
-</aura:component>	
+<aura:handler name="init" value="{!this}" action="{!c.init}" /> 
+</aura:component>
