@@ -9,6 +9,8 @@ This repository houses my Lightning Aura Component, which I created to call a Sc
 
 The Flow creates a new Case with lookup field visibility dependent on the value of the Type field. It also includes a File Upload component to allow attachment of screenshots.
 
+The field visibility is a condition of the QuickChoice Component from Alex Edelstein's FlowBasePacks on UnofficialSF.
+
 ## Usage
 ![New Case Form Screen 1](assets/images/NewCaseForm1.png)
 ![New Case Form Screen 2](assets/images/NewCaseForm3.png)
