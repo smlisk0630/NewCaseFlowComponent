@@ -1,6 +1,6 @@
 # New Case Flow Lightning Component
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This repository houses my Lightning Aura Component, which I created to call a Flow via a Global Action.
 
 ## Usage
 ![New Case Form Screen 1](assets/images/NewCaseForm1.png)
