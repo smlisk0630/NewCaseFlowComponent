@@ -4,7 +4,6 @@ This repository houses my Lightning Aura Component, which I created to call a Fl
 
 ## Usage
 ![New Case Form Screen 1](assets/images/NewCaseForm1.png)
-![New Case Form Screen 2](assets/images/NewCaseForm2.png)
 
 ## Credits
 
