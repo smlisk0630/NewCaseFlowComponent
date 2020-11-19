@@ -11,6 +11,9 @@ The Flow creates a new Case with lookup field visibility dependent on the value 
 
 The field visibility is a condition of the QuickChoice Component from Alex Edelstein's FlowBasePacks on UnofficialSF.
 
+## Preqrequisites
+- Enable MyDomain
+
 ## Usage
 ![New Case Form Screen 1](assets/images/NewCaseForm1.png)
 ![New Case Form Screen 2](assets/images/NewCaseForm3.png)
