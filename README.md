@@ -1,6 +1,8 @@
 # New Case Flow Lightning Component
 
-This repository houses my Lightning Aura Component, which I created to call a Flow via a Global Action.
+This repository houses my Lightning Aura Component, which I created to call a Screen Flow via a Global Action.
+
+The Flow creates a new Case with lookup field visibility dependent on the value of the Type field. It also includes a File Upload component to allow attachment of screenshots.
 
 ## Usage
 ![New Case Form Screen 1](assets/images/NewCaseForm1.png)
